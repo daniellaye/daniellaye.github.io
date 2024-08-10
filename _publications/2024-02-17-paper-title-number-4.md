@@ -1,7 +1,7 @@
 ---
 title: "Improving Reward Models with Synthetic Critiques"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4.md
+permalink: /publication/2024-02-17-paper-title-number-4
 date: 2024-05-31 
 venue: 'ArXiv'
 excerpt: 'Beyond their use in assisting human evaluation (e.g. CriticGPT), can critiques directly enhance preference learning? During my 
