@@ -24,5 +24,7 @@ Work experience
   * Carnegie Mellon University
   * Duties included: Research project on fine-grained measures for NLP performance prediction tasks
 
+Service
 ======
-
+* Reviewer/sub-reviewer (Conference)
+  * EMNLP, NeurIPS
