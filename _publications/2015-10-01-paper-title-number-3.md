@@ -1,13 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: "Can Text Encoders be Deceived by Length Attack?"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2023-05-01
+venue: 'ICLR 2023 Tiny Paper'
+excerpt: 'We observe that contrastive learning is prone to length overfitting, making it vulnerable to adversarial length attacks. We examine the behaviour of this phenomenon and propose an editing method to mitigate this problem. We find that our method can effectively improve the robustness of models against length attacks. Its effectiveness can be attributed to reduced length information in the embeddings, more robust intra-document token interaction, and enhanced isotropy at trained length range.'
+paperurl: 'https://openreview.net/pdf?id=KPHbtTtCDw'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
