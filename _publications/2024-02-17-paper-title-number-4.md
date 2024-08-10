@@ -1,7 +1,9 @@
 ---
 title: "Improving Reward Models with Synthetic Critiques"
-collection: arxiv
-excerpt: 'This paper is about fixing template issue #693.'
+collection: publications
+permalink: /publication/synthetic_rm
+excerpt: 'Beyond their use in assisting human evaluation (e.g. CriticGPT), can critiques directly enhance preference learning? During my 
+Cohere internship, we explored using synthetic critiques from large language models to improve reward models.'
 paperurl: 'http://daniellaye.github.io/files/synthetic_rm.pdf'
 ---
 
