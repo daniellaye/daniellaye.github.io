@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zihuiwen Ye's Homepage"
+title                    : "Daniella Ye's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Daniella Ye"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Daniella Ye (Zihuiwen, Ye)"
+  pronouns         : "she/her"  
+  bio              : "DPhil Candidate, Department of Computer Science"
+  location         : "Oxford, UK"
+  employer         : "University of Oxford"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zihuiwen.ye@cs.ox.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
