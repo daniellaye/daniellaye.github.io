@@ -16,8 +16,7 @@ Education
 
 Work experience
 ======
-* Oct 2023 - May 2024: Research Internship
-  * Cohere
+* Oct 2023 - May 2024: Research Internship at Cohere
   * Duties includes: Intern at the modeling team  
 
 * Sep 2020 - Jun 2021: NLP Research Assistant
