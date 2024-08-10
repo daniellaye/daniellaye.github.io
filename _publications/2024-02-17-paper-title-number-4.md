@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 4"
-collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+title: "Improving Reward Models with Synthetic Critiques"
+collection: arxiv
+permalink: https://arxiv.org/abs/2405.20850
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
